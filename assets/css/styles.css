@@ -293,19 +293,16 @@ img{
   width: 100%;
 }
 .skills__bar-cloud{
-  width: 65%;
+  width: 90%;
 }
 .skills__bar-docker{
-  width: 45%;
-}
-.skills__css{
-  width: 85%;
+  width: 50%;
 }
 .skills__gcp{
   width: 65%;
 }
 .skills__ux{
-  width: 85%;
+  width: 90%;
 }
 .skills__img{
   border-radius: .5rem;
