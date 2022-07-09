@@ -58,4 +58,4 @@ navLink.forEach(n => n.addEventListener('click', linkAction));
 //
 //
 
-
+document.getElementById("cp-year").textContent = new Date().getFullYear()
